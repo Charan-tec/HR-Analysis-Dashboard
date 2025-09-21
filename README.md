@@ -71,3 +71,7 @@ Integration with real-time HRMS/ERP systems.
 Automated alerts for high-risk attrition or performance dips.
 
 ⚡ This HR Analytics Dashboard is more than just a visualization tool — it’s a strategic decision-making system that transforms HR data into business value.
+
+
+Author : charan
+
